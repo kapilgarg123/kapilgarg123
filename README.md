@@ -25,7 +25,7 @@ I'm a **Software Developer** specializing in **Backend Development (Java Spring 
 - Designed relational **database schemas** and implemented efficient data retrieval strategies  
 
 ### 📫 Connect with Me
-- 📧 Email: **kapilgargbusiness@gmail.com**  
+- 📧 Email: **kapilgarg236@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kapilgarg236)  
 
 ---
