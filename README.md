@@ -4,7 +4,7 @@ I'm a **Software Developer** specializing in **Backend Development (Java Spring 
 
 ### 🚀 About Me
 - 🎓 2025 B.Tech Graduate from NIT Bhopal
-- 💼 Currently interning at **TechBell Technologies** as a **Junior Backend Developer**  
+- 💼 Currently working at Piramal Finance as SDE-1
 - 🧠 Experienced with **Java | Spring Boot | REST APIs | PostgreSQL 
 - ⚙️ Worked on projects like **Expense Tracker**, **Cloud Kitchen App**, and **Security Management System (ShieldTrack)**  
 
